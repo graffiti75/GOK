@@ -5,9 +5,8 @@ apply plugin: 'kotlin-kapt'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.1"
-    dataBinding {
-        enabled = true
+    buildFeatures {
+        dataBinding true
     }
     defaultConfig {
         applicationId "br.cericatto.gok"

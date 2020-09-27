@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GOK</string>
+
+    <string name="fragment_home__label">GOK</string>
+    <string name="fragment_result__label">GOK Test</string>
+
+    <string name="retrofit_error">Error retrieving data from GOK API.</string>
 </resources>

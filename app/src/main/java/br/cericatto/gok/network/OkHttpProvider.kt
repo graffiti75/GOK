@@ -1,4 +1,4 @@
-package br.cericatto.easynvest.network
+package br.cericatto.gok.network
 
 import okhttp3.OkHttpClient
 
